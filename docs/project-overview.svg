@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+<title id="title">GenAI LangChat Agent</title><desc id="desc">Python CLI, LangChain model binding, timezone tool, and offline fallback. RAG is planned.</desc>
+<rect width="1280" height="640" rx="24" fill="#101e34"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="72" y="85" fill="#63e5ce" font-size="22">GENERATIVE AI / PYTHON / LANGCHAIN</text>
+<text x="72" y="170" fill="white" font-size="64" font-weight="700">LangChat Agent</text>
+<text x="72" y="220" fill="#b7c8e0" font-size="26">A compact playground for chat models and tool schemas.</text>
+<g fill="#223e59" stroke="#426181" stroke-width="2"><rect x="72" y="285" width="340" height="150" rx="18"/><rect x="470" y="285" width="340" height="150" rx="18"/><rect x="868" y="285" width="340" height="150" rx="18"/></g>
+<g fill="#63e5ce" font-size="19"><text x="100" y="325">01 / INTERFACE</text><text x="498" y="325">02 / MODEL</text><text x="896" y="325">03 / TOOL SCHEMA</text></g>
+<g fill="white" font-size="29" font-weight="600"><text x="100" y="372">Python CLI</text><text x="498" y="372">LangChain</text><text x="896" y="372">Timezone lookup</text></g>
+<g fill="#b7c8e0" font-size="18"><text x="100" y="410">Prompt + interactive modes</text><text x="498" y="410">ChatOpenAI + bind_tools</text><text x="896" y="410">IANA timezone names</text></g>
+<path d="M422 360h38m-10-8 10 8-10 8M820 360h38m-10-8 10 8-10 8" fill="none" stroke="#63e5ce" stroke-width="3"/>
+<text x="72" y="515" fill="#e3edf9" font-size="24">Offline fallback included. Live tool execution needs implementation.</text>
+<text x="72" y="560" fill="#9fb6d0" font-size="22">Educational prototype / Document retrieval and RAG are planned extensions</text>
+</g></svg>
